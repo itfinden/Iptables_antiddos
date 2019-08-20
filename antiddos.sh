@@ -6,7 +6,7 @@
 #                       CONTACT                         #
 #########################################################
 #              DEVELOPER : İSMAİL TAŞDELEN              #                       
-#           GMAIL : ismailtasdelen@protonmail.com       #
+#           GMAIL : manoforion@gmail.com       #
 # Linkedin : https://www.linkedin.com/in/ismailtasdelen #
 #           Telegram : https://t.me/ismailtasdelen      #
 #########################################################
