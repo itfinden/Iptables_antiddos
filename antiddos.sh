@@ -1,15 +1,15 @@
 #!/bin/sh
 
-#########################################################
-#                 ANTI-DDOS BASH SCRIPT                 #
-######################################################### 
-#                       CONTACT                         #
-#########################################################
-#              DEVELOPER : İSMAİL TAŞDELEN              #                       
-#           GMAIL : manoforion@gmail.com       #
-# Linkedin : https://www.linkedin.com/in/ismailtasdelen #
-#           Telegram : https://t.me/ismailtasdelen      #
-#########################################################
+#############################################################
+#                 ANTI-DDOS BASH SCRIPT                     #
+############################################################# 
+#                       CONTACT                             #
+#############################################################
+#              DEVELOPER : Man Of Orion.                    #                       
+#           GMAIL : manoforion@gmail.com                    #
+# Linkedin : https://www.linkedin.com/in/friedrichitfinden/ #
+#                                                           #
+#############################################################
 
 # For debugging use iptables -v.
 IPTABLES="/sbin/iptables"
